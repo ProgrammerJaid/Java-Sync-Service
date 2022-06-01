@@ -4,7 +4,6 @@
 An API that reads CSV File and updates data into databse if new rows are found in CSV File.Key features:
 
 - Automatic Data gets uploaded on the database.
-- Gets started with one command.
 
 How to use?
 --
