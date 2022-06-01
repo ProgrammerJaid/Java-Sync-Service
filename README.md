@@ -74,4 +74,7 @@ drop table csv_table;
 
 ```
 
+Please import this as a maven project.
+Any error in web.xml would be due difference in xmlns:xsi in project web.xml and in tomcat server web.xml just copy tomcat xmlns:xsi host name.Please place MySql Connector jar in your tomcat lib, details given in class heading in Application.java in package co.greendeck.businesslogic.
+
 Thank you.
